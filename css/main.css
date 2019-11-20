@@ -12,6 +12,8 @@
 }
 
 body {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
   margin: 0 auto;
   font-size: 16px;
   line-height: 1.71429;
@@ -68,12 +70,6 @@ a:hover {
 }
 
 /*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
-body {
-  /* Nombre de la fuente raleway */
-  font-family: 'Raleway', sans-serif;
-  /* En todo el body me centrara el texto */
-  text-align: center;
-}
 .header {
   background-color: #fff;
   padding: 2rem 0;
@@ -83,6 +79,7 @@ body {
   top: 0;
   width: 100%;
 }
+.
 .logo-content{
   display: flex;
   align-items: center; 
@@ -157,4 +154,26 @@ body {
 .servir img {  /* ancho de imagen */
   margin: 70px 0 20px;
   width: 200px;
+}
+h6 {
+    margin-bottom: -20px;
+    transform: translate(0px, -20px);
+}
+.work{
+  background: white;
+}
+.work h2 {
+  font-size: 45px;
+}
+.work h4 {
+  margin: 20px;
+}
+.img-hero{
+  width: 86%;
+  margin-top: 25px;
+}
+.proyectos{
+  display: flex;
+flex-direction:column;
+  
 }
