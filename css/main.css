@@ -108,7 +108,7 @@ a:hover {
 
 }
 .back{
-  background-image: url('/assets/images/bg-home.jpg');
+  background-image: url('https://mariliayovana.github.io/AppLove/assets/images/bg-home.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   background-size: cover;
