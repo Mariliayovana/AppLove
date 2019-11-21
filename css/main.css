@@ -139,7 +139,7 @@ a:hover {
   display: inline-block;
   padding: 11px 32px;
   margin-top: 85px;
-  margin-bottom: 199px;
+  margin-bottom: 206px;
 }
 .services{
   background: #f17c72;
@@ -147,7 +147,7 @@ a:hover {
 }
 .services h2{
   font-size: 37px;
-  margin: 66px 0 30px;
+  margin: 135px 0 35px;
 }
 .servir{
   display: inline-block;
@@ -163,7 +163,7 @@ h6 {
 }
 .work h2 {
   font-size: 45px;
-  margin: 72px 0 30px;
+  margin: 125px 0 30px;
 }
 .work h4 {
   margin: 20px;
